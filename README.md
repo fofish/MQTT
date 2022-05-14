@@ -4,4 +4,4 @@
 
 ### note
 
-[MQTT 协议通信过程](note/MQTT 协议通信过程.md)
+![MQTT 协议通信过程](note/MQTT 协议通信过程.md)
