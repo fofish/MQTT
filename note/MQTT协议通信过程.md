@@ -1,6 +1,6 @@
 # 0 
 
-[学习摘录自：你不得不看的图文并茂的MQTT协议通信过程]([你不得不看的图文并茂的MQTT协议通信过程！！！__杰杰_的博客-CSDN博客_mqtt通信流程](https://jiejie.blog.csdn.net/article/details/106737995?spm=1001.2014.3001.5502))
+[学习整理自](https://jiejie.blog.csdn.net/article/details/106737995?spm=1001.2014.3001.5502)
 
 
 
